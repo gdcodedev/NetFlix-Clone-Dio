@@ -30,7 +30,7 @@ header .container{
 
 header .logo{
     color: var(--vermelha);
-    font-family: 'Arial Black', Times;
+    font-family: 'BebasNeue-Regular', Times;
     font-size: 40px;
     margin-left: 5px;
 }
